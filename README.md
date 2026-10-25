@@ -7,4 +7,4 @@
  - style.css  :  見た目の設定  
 
 ## 公開URL
-（第七回で記入します）
+  https://hashigoshokunin.github.io/my-website/
